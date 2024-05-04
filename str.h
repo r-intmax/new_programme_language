@@ -106,6 +106,7 @@ size_t newLineNum(string str){
 			n++;
 		}
 	}
+	return n;
 }
 
 #endif
